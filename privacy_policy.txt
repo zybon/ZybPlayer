@@ -1,0 +1,9 @@
+Welcome to the ZybPlayer!
+
+This is an open source Android app developed by zybon. 
+
+The source code is available (soon) on GitHub; the app is also available on Google Play.
+
+I hereby state, to the best of my knowledge and belief, 
+that I have not programmed this app to collect any personally identifiable information. 
+All data (like saved lists) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
